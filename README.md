@@ -1,15 +1,13 @@
-# Hi there, Tasnim here ...
+# Hi there, Tasnim here!
 
-I am a ...
+I am an aspiring ML engineer with a passion to learn and implement different tools and projects for sustainability
 
-passionate about creating an impact with technology, ideating and implementing technological solutions for ....
+- 🔭 I’m currently working on developing a platform to share environmental initiatives in the UAE
+- 🌱 I’m currently learning about Generative AI toolkits
+- 👯 I’m looking to collaborate on cool, green and sustainable projects
+- 🤔 I’m looking for help with "What do I want from life?"
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-
-- 📫 How to reach me: ...
+- 📫 How to reach me: tasnim.ahmed@nyu.edu
 
 ## Skills and Technologies 🛠️
 
@@ -17,8 +15,10 @@ passionate about creating an impact with technology, ideating and implementing t
 - Python, C, C++ & JavaScript 📜
 
 ### Machine Learning & Data Science
+- Scikit-Learn, PyTorch & TensorFlow
 
 ### Quantum Computing 
+- PennyLane
 
 ### Project Management
 
