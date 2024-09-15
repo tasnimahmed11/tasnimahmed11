@@ -1,11 +1,11 @@
 # Hi there, Tasnim here!
 
-I am an aspiring ML engineer with a passion to learn and implement different tools and projects for sustainability
+I am an aspiring data scientist, quantum scientist, product manager, environmentalist, business analyst with a passion to learn and implement different tools and projects for environmental sustainability
 
 - 🔭 I’m currently working on developing a platform to share environmental initiatives in the UAE
 - 🌱 I’m currently learning about Generative AI toolkits
 - 👯 I’m looking to collaborate on cool, green and sustainable projects
-- 🤔 I’m looking for help with "What do I want from life?"
+- 🤔 I’m looking for help with "What am I doing?"
 
 - 📫 How to reach me: tasnim.ahmed@nyu.edu
 
@@ -18,7 +18,7 @@ I am an aspiring ML engineer with a passion to learn and implement different too
 - Scikit-Learn, PyTorch & TensorFlow
 
 ### Quantum Computing 
-- PennyLane
+- PennyLane & Qiskit
 
 ### Project Management
 
