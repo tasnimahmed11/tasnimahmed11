@@ -3,7 +3,7 @@
 A generalist who likes doing everything and anything.
 But I also have a soft spot for complex optimization problems.
 
-I’ve dipped into surface-level quantum computing research out of pure curiosity because I want to know how can such advanced tech solve climate problems? Turns out, I’m now back at square one, trying to understand the actual root causes of the global climate crisis.
+I’ve dipped into surface-level quantum computing research out of pure curiosity because I wanted to know how can such advanced tech solve climate problems? Turns out, I’m now back at square one, trying to understand the actual root causes of the global climate crisis.
 
 I’m an aspiring data scientist, product manager, environmentalist, and business analyst who loves learning, building, and experimenting with tools that push environmental sustainability forward.
 
